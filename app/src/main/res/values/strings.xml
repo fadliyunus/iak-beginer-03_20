@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Iak Beginer</string>
+
+    <!--Text String-->
+    <string name="hbd_text">Happy Bday frends</string>
+    <string name="from">From, Me</string>
+    <string name="your_name">Your Name</string>
+    <string name="click">click</string>
+</resources>
